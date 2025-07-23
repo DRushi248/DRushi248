@@ -97,8 +97,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DRushi248&theme=tokyonight&no-frame=true&margin-w=10" />
 </div> -->
 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
