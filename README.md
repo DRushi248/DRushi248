@@ -26,9 +26,8 @@
 - 🚀 Love working on **real-world projects** and learning **new technologies**  
 - 🤝 Actively looking for internships & collaborative opportunities  
 
----
 
-## 💼 Projects
+<!-- ## 💼 Projects
 
 ### 🎮 [Multiplayer Flappy Bird Game](https://github.com/DRushi248/flappy-bird-project)
 - Real-time multiplayer support for up to 4 players  
@@ -44,7 +43,7 @@
 
 ### 🌐 [3D Portfolio Website](https://github.com/DRushi248)
 - Built with React + Three.js  
-- Responsive animated portfolio with EmailJS integration  
+- Responsive animated portfolio with EmailJS integration   -->
 
 ---
 
@@ -82,12 +81,22 @@
 
 ---
 
-## 💼 Internship Experience
+## 🔭 Current Focus
+
+- 📚 Strengthening core **Computer Science fundamentals**  
+- 🌐 Building AI-Powered Full Stack Applications 
+- 📈 Practicing **DSA on LeetCode & HackerRank** regularly  
+- ✍️ Writing **tech blogs on Medium** to share what I learn  
+<!-- - 🔐 Exploring **JWT Auth, API security, and scalable backend patterns**   -->
+<!-- - 🎨 Enhancing UI/UX using **MUI, GSAP, and responsive design** -->
+<!-- - 🌐 Learning **WebSockets, WebRTC**, and **real-time apps**   -->
+
+<!-- ## 💼 Internship Experience
 
 ### 🧠 Patent Drafting – RV College, Bangalore (2024)
 - Participated in national immersion program  
 - Drafted patent for **RAM pooling in distributed systems**  
-- Wrote architecture, coordination strategy, and performance report  
+- Wrote architecture, coordination strategy, and performance report   -->
 
 ---
 
